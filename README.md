@@ -9,7 +9,7 @@ https://moser-dsmovie.netlify.app
 
 DS Movie é uma aplicação full stack web e mobile construída durante a 6ª edição da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma avaliação de filmes, onde as avalições são coletados, e depois são listadas no app web preenchendo as estrelas com as avalações.
+A aplicação consiste em uma avaliação de filmes, onde as avaliações são coletados, e depois são listadas no app web preenchendo as estrelas com as avaliações.
 
 ## Layout web
 ![Mobile 1](https://github.com/julianomoser/assets/blob/main/raw/main/sds3/DSMovie.png)
